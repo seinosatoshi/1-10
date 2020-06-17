@@ -32,19 +32,19 @@ main{
   padding:3px;
 }
 .box_image1{
-  background-image: url(flow01.png);
+  background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 .box_image2{
-  background-image: url(flow02.png);
+  background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 .box_image3{
-  background-image: url(flow03.png);
+  background-image: url(img/flow03.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
